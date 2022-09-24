@@ -1,0 +1,23 @@
+{
+  "name": "granache_ether",
+  "version": "1.0.0",
+  "description": "A simple contract deployment with ethers.js and granache",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/julianallenderussek/granache_ether.git"
+  },
+  "keywords": [
+    "ethers.js",
+    "granache"
+  ],
+  "author": "Julian Allende",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/julianallenderussek/granache_ether/issues"
+  },
+  "homepage": "https://github.com/julianallenderussek/granache_ether#readme"
+}
